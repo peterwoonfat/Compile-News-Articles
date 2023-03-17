@@ -1,4 +1,4 @@
-# Compile-News-Articles
+# Fetch-News-Articles
 
 A website hosted on localhost that fetches links to articles from four news sources: CNN, Cyber.Report, Kidl.at, and CBS News. The user can choose the news site to view articles from by pressing its respective button and the website will make a request to that news site and display links to the fetched articles.
 
